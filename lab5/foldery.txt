@@ -1,0 +1,4 @@
+int - poprawiony kod z zadania 3
+float - poprawiony kod z zadania 4
+simd - program z SIMD w kodzie
+test - program z SIMD w kompilacji
